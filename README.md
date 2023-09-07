@@ -1,12 +1,5 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Mohitha!</h2>
+## Hey 👋, I'm [Mohitha Velagapudi!](https://github.com/Mohithavelagapudi)
 
-🎓 Currently pursuing my B.Tech in Artificial Intelligence
-<p><em>🤖 Passionate about developing AI applications
-<p><em>📱 Enthusiastic about Social Media Marketing
-<p><em>💡 Eager and lifelong learner
-<p><em>🧠 Skilled in problem-solving and aptitude testing
+### Glad to see you here! &nbsp;
 
-<p><em>🚀 Let's collaborate on cutting-edge AI projects!
-
-<p><em>📫 Reach me at [Your Email Address]
-<p><em>🌐 Connect with me on LinkedIn: [LinkedIn Profile Link]
+I'm pursuing B.Tech in Artificial Intelligence 🎓 from Amrita Viswavidyapeetham 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into developing AI powered chatbots using IBM Watson 🕸️ and working on Power Quality Disturabance Classification using Machine Learning Algorithms 🤓.
