@@ -10,3 +10,8 @@ I'm pursuing B.Tech in Artificial Intelligence 🎓 from Amrita Viswavidyapeetha
 - 🚀 &nbsp; I’m currently learning to build AI powered chatbots.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Mohithavelagapudi).
 - 📫 &nbsp; How to reach me: mohithavelagapudi@gmail.com.
+
+  ### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new AI - driven marketing stratagies.
+- 📰 &nbsp; Connecting with new people and sharing my ideas.
