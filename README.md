@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFBF00&center=false&vCenter=true&width=500&lines=Go+Backend+Developer+%40+Guidewire+Software;AI+%26+Data+Science+Enthusiast;Aspiring+Data+Science+Graduate+Student;Building+Scalable+Systems+%26+ML+Models)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="GitHub Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/mohitha/mohitha/main/Black and Yellow Web Developer LinkedIn Banner (1).png" alt="GitHub Banner" width="100%"/>
 </p>
 
 <br/>
