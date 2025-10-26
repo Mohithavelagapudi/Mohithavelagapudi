@@ -2,8 +2,6 @@
 
 # 👋 Hey there! I'm Mohitha
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFBF00&center=true&vCenter=true&width=600&lines=Go+Backend+Developer+%40+Guidewire+Software;AI+%26+Data+Science+Enthusiast;Aspiring+Data+Science+Graduate+Student;Building+Scalable+Systems+%26+ML+Models)](https://git.io/typing-svg)
-
 </div>
 
 <p align="center">
