@@ -42,12 +42,33 @@ func main() {
 > 💡 **"Data is the new oil, but it's AI that's the combustion engine."** - My philosophy on modern tech
 
 ## 📚 Coursework
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Statistical%20Methods-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neural%20Networks-FF8C00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-8A2BE2?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-FF8C00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-4682B4?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robotic%20Operating%20Systems%20%26%20Simulations-DA70D6?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-1E90FF?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linear%20Algebra-2E8B57?style=for-the-badge&logo=matrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Optimization-FFB300?style=for-the-badge&logo=graph&logoColor=white" />
+  <img src="https://img.shields.io/badge/Probability%20%26%20Statistics-FF4500?style=for-the-badge&logo=wolfram-mathematica&logoColor=white" />
+  <img src="https://img.shields.io/badge/Differential%20Equations-20B2AA?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matrix%20Operations-6495ED?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eigenvalues%20%26%20Eigenvectors-9932CC?style=for-the-badge&logo=wolfram-mathematica&logoColor=white" />
+  <img src="https://img.shields.io/badge/Calculus-008B8B?style=for-the-badge&logo=calculator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design%20%26%20Analysis%20of%20Algorithms-DAA520?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Big%20Data%20Analytics-2E8B57?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-1E90FF?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning%20for%20Signal%20and%20Image%20Processing-DC143C?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-006400?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20in%20NLP-4682B4?style=for-the-badge&logo=transformers&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20in%20Speech%20Processing-191970?style=for-the-badge&logo=soundcharts&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-FF69B4?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Applied%20Cryptography-228B22?style=for-the-badge&logo=lock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Operational%20Research-708090?style=for-the-badge&logo=graph&logoColor=white" />
+  <img src="https://img.shields.io/badge/Managerial%20Statistics-DA70D6?style=for-the-badge&logo=bar-chart&logoColor=white" />
 </p>
+
+📘 This represents the **in-depth coursework syllabus** covered throughout my undergraduate studies
 ---
 
 ## 💼 Professional Experience
