@@ -1,21 +1,28 @@
- # <div align="center">👋 Hey there! I'm Mohitha </div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Go+Backend+Developer+%40+Guidewire;AI+%26+Data+Science+Enthusiast;Aspiring+Data+Science+Graduate+Student;Building+Scalable+Systems+%26+ML+Models)](https://git.io/typing-svg)
+# 👋 Hey there! I'm Mohitha
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=Go+Backend+Developer+%40+Guidewire;AI+%26+Data+Science+Enthusiast;Aspiring+Data+Science+Graduate+Student;Building+Scalable+Systems+%26+ML+Models)](https://git.io/typing-svg)
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+<br/>
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
----
+</td>
+<td width="50%" valign="top">
+
+<img src="https://tenor.com/en-GB/view/spin-spinning-animal-animals-roomba-gif-15835180401043432274" alt="Custom GIF" width="100%"/>
+
+<!-- Replace the URL above with your own custom GIF -->
+
+</td>
+</tr>
+</table>
 
 ## 🚀 About Me
 
