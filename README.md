@@ -51,7 +51,6 @@ func main() {
 
 <table>
 <tr>
-<td width="50%">
 
 ### 🏛️ Amrita Vishwa Vidyapeetham
 **B.Tech in Computer Science (AI Specialization)**  
@@ -62,27 +61,7 @@ func main() {
 - 📊 Capstone: Developed predictive analytics system
 - 🏆 Top 5% of graduating class
 - 📚 Relevant Coursework: Statistical Methods, Neural Networks, Big Data Analytics, Computer Vision
-
-</td>
-<td width="50%">
-
-### 🎯 Why Data Science?
-
-```python
-career_transition = {
-    'from': 'Backend Engineering',
-    'to': 'Data Science',
-    'motivation': [
-        'Love for statistical modeling',
-        'Passion for extractive insights',
-        'Building intelligent systems',
-        'Research in ML/AI domains'
-    ],
-    'unique_advantage': 'Production engineering experience'
-}
-```
-
-</td>
+  
 </tr>
 </table>
 
@@ -234,27 +213,6 @@ Custom distributed training framework leveraging Go's concurrency for horizontal
 
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophy" />
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
-
 ---
 
 ## 📈 Coding Stats
@@ -273,131 +231,8 @@ Markdown     1 hr 15 mins    █░░░░░░░░░░░░░░░░
 
 </div>
 
----
-
-## 🎯 Why I'm Pursuing Master's in Data Science
-
-<table>
-<tr>
-<td width="33%">
-
-### 🔍 **Deep Research Interest**
-Moving beyond application development to contribute to cutting-edge research in ML/AI. Want to work on problems at the intersection of theory and practice.
-
-</td>
-<td width="33%">
-
-### 🌉 **Bridge the Gap**
-Combining software engineering expertise with rigorous statistical & mathematical foundations to build next-gen AI systems.
-
-</td>
-<td width="33%">
-
-### 🚀 **Long-term Vision**
-Aspiring to lead AI research teams in industry or academia, developing solutions for real-world impact in healthcare, climate, or education.
-
-</td>
-</tr>
-</table>
-
-### 📚 Academic Preparation
-- ✅ Completed Andrew Ng's Machine Learning Specialization
-- ✅ Deep Learning Specialization (5 courses)
-- ✅ Advanced SQL for Data Scientists (Coursera)
-- ✅ Statistical Learning (Stanford Online)
-- 📖 Currently: Mathematics for Machine Learning (Imperial College)
-
----
-
-## 💡 Fun Facts & Interests
-
-```python
-class PersonalSide:
-    def __init__(self):
-        self.hobbies = ['📸 Photography', '♟️ Chess', '🎸 Guitar', '🏃 Running']
-        self.favorite_books = [
-            'Hands-On Machine Learning by Aurélien Géron',
-            'Designing Data-Intensive Applications by Martin Kleppmann',
-            'The Pragmatic Programmer'
-        ]
-        self.coffee_consumed = float('inf')  # ☕ Powered by caffeine
-        self.current_reading = 'Deep Learning by Goodfellow et al.'
-        
-    def life_philosophy(self):
-        return "Build systems that learn, create AI that empowers 🚀"
-    
-    def weekend_project(self):
-        return "Probably training a model or optimizing Go code 💻"
-
-me = PersonalSide()
-print(me.life_philosophy())  # Build systems that learn, create AI that empowers 🚀
-```
-
-<div align="center">
-
-### 🎵 When I Code, I Listen To
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyusername&unique=true&count=5)
-
-</div>
-
----
-
-## 🤝 Let's Collaborate!
-
-<div align="center">
-
-I'm always excited to collaborate on:
-- 🤖 **ML/AI Research Projects**
-- 🔬 **Open Source Contributions** (especially ML frameworks)
-- 💼 **Data Science Competitions** (Kaggle, DrivenData)
-- 🎓 **Academic Research** in AI/ML domains
-- 🚀 **Innovative Startup Ideas** combining AI + Engineering
-
-### 📬 Reach Out To Me
-
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://medium.com/@yourusername">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://kaggle.com/yourusername">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Thought of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
-
-### 🐍 Contribution Snake
-
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
----
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-**⚡ "In the world of data, I'm not just a developer—I'm a storyteller, turning numbers into narratives and algorithms into answers."**
 
 *Last Updated: October 2025 | Built with 💙 and lots of ☕*
 
