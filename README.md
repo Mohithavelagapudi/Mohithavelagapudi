@@ -12,13 +12,10 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 </div>
 
 ---
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🚀 About Me
 
@@ -37,11 +34,11 @@ type Developer struct {
 
 func main() {
     me := Developer{
-        Name:        "[Your Name]",
-        Role:        "Backend Software Engineer",
+        Name:        "Mohitha Velagapudi",
+        Role:        "Software Engineer",
         Company:     "Guidewire Software Solutions",
         Education:   "B.Tech in CS (AI) - Amrita University",
-        Location:    "Chennai, India",
+        Location:    "Bengaluru, India",
         Interests:   []string{"ML", "Data Science", "Distributed Systems", "AI Research"},
         FutureGoals: "Pursuing Master's in Data Science to bridge the gap between engineering and research",
     }
