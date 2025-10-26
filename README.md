@@ -23,24 +23,27 @@
 package main
 
 type Developer struct {
-    Name           string
-    Role           string
-    Company        string
-    Education      string
-    Location       string
-    Interests      []string
+	Name      string
+	Title     string
+	Company   string
+	AlmaMater string
+	City      string
+	Passions  []string
+	Motto     string
 }
 
 func main() {
-    me := Developer{
-        Name:        "Mohitha Velagapudi",
-        Role:        "Software Engineer",
-        Company:     "Guidewire Software Solutions",
-        Education:   "B.Tech in CS (AI) - Amrita University",
-        Location:    "Bengaluru, India",
-        Interests:   []string{"ML", "Data Science", "Distributed Systems", "AI Research"},
-    }
+	me := Developer{
+		Name:      "Mohitha Velagapudi",
+		Title:     "AI & Software Engineer",
+		Company:   "Guidewire Software Solutions",
+		AlmaMater: "Amrita University",
+		City:      "Bengaluru, India",
+		Passions:  []string{"Machine Learning", "Data Science", "AI Research", "Scalable Systems"},
+		Motto:     "Turning data into decisions, and ideas into impact.",
+	}
 }
+
 ```
 
 <br clear="right"/>
