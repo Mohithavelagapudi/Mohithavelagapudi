@@ -1,10 +1,10 @@
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 # 👋 Hey there! I'm Mohitha
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=false&vCenter=true&width=500&lines=Go+Backend+Developer+%40+Guidewire;AI+%26+Data+Science+Enthusiast;Aspiring+Data+Science+Graduate+Student;Building+Scalable+Systems+%26+ML+Models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFBF00&center=false&vCenter=true&width=500&lines=Go+Backend+Developer+%40+Guidewire;AI+%26+Data+Science+Enthusiast;Aspiring+Data+Science+Graduate+Student;Building+Scalable+Systems+%26+ML+Models)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,9 +14,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 </td>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-<img src="https://tenor.com/en-GB/view/spin-spinning-animal-animals-roomba-gif-15835180401043432274" alt="Custom GIF" width="100%"/>
+<img src="https://media.tenor.com/28HcrSZr41IAAAAi/spin-spinning.gif" alt="Custom GIF" width="100%"/>
 
 <!-- Replace the URL above with your own custom GIF -->
 
