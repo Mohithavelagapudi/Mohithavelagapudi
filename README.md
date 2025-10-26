@@ -6,19 +6,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFBF00&center=false&vCenter=true&width=500&lines=Go+Backend+Developer+%40+Guidewire+Software;AI+%26+Data+Science+Enthusiast;Aspiring+Data+Science+Graduate+Student;Building+Scalable+Systems+%26+ML+Models)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://your-banner-image-url.com/banner.png" alt="GitHub Banner" width="100%"/>
+</p>
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
-</td>
-<td width="60%" valign="top">
-
-<img src="https://media.tenor.com/28HcrSZr41IAAAAi/spin-spinning.gif" alt="Custom GIF" width="100%"/>
-
-<!-- Replace the URL above with your own custom GIF -->
 
 </td>
 </tr>
