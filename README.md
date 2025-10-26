@@ -1,25 +1,14 @@
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
 # 👋 Hey there! I'm Mohitha
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFBF00&center=false&vCenter=true&width=500&lines=Go+Backend+Developer+%40+Guidewire+Software;AI+%26+Data+Science+Enthusiast;Aspiring+Data+Science+Graduate+Student;Building+Scalable+Systems+%26+ML+Models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFBF00&center=true&vCenter=true&width=600&lines=Go+Backend+Developer+%40+Guidewire+Software;AI+%26+Data+Science+Enthusiast;Aspiring+Data+Science+Graduate+Student;Building+Scalable+Systems+%26+ML+Models)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
-  <img src="Black and Yellow Web Developer LinkedIn Banner (1).png" alt="GitHub Banner" width="100%"/>
+  <img src="Black and Yellow Web Developer LinkedIn Banner (1).png" alt="GitHub Banner" width="100%" style="border-radius: 10px;"/>
 </p>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
-</td>
-</tr>
-</table>
 
 ## 🚀 About Me
 
