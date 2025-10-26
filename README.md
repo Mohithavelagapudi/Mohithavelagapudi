@@ -41,20 +41,13 @@ func main() {
 
 > 💡 **"Data is the new oil, but it's AI that's the combustion engine."** - My philosophy on modern tech
 
-## 🎓 Academic Journey
-
+## 📚 Coursework
 <p align="center">
-  <img src="https://img.shields.io/badge/University-Amrita%20Vishwa%20Vidyapeetham-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20CS%20(AI)-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Year-2024-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statistical%20Methods-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neural%20Networks-FF8C00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Big%20Data%20Analytics-2E8B57?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-1E90FF?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
-
-**Key Highlights**
-- 🎯 Specialization in **Machine Learning**, **Deep Learning**, and **NLP**
-- 📊 **Capstone Project:** Predictive Analytics System
-- 🏆 Top 5% of Class
-- 📚 Coursework: *Statistical Methods, Neural Networks, Big Data Analytics, Computer Vision*
-
 ---
 
 ## 💼 Professional Experience
