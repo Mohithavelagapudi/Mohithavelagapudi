@@ -41,20 +41,19 @@ func main() {
 
 > 💡 **"Data is the new oil, but it's AI that's the combustion engine."** - My philosophy on modern tech
 
-<div align="center">
-
 ## 🎓 Academic Journey
 
-| 🏛️ **Amrita Vishwa Vidyapeetham** |
-|----------------------------------|
-| 🎓 *B.Tech in Computer Science (AI Specialization)* |
-| 📅 Graduated: 2024 |
-| 🎯 Focused on Machine Learning, Deep Learning & NLP |
-| 📊 **Capstone:** Predictive Analytics System |
-| 🏆 Top 5% of Graduating Class |
-| 📚 *Statistical Methods · Neural Networks · Big Data Analytics · Computer Vision* |
+<p align="center">
+  <img src="https://img.shields.io/badge/University-Amrita%20Vishwa%20Vidyapeetham-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20CS%20(AI)-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Year-2024-success?style=for-the-badge" />
+</p>
 
-</div>
+**Key Highlights**
+- 🎯 Specialization in **Machine Learning**, **Deep Learning**, and **NLP**
+- 📊 **Capstone Project:** Predictive Analytics System
+- 🏆 Top 5% of Class
+- 📚 Coursework: *Statistical Methods, Neural Networks, Big Data Analytics, Computer Vision*
 
 ---
 
