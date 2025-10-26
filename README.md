@@ -4,7 +4,7 @@
 
 # 👋 Hey there! I'm Mohitha
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFBF00&center=false&vCenter=true&width=500&lines=Go+Backend+Developer+%40+Guidewire;AI+%26+Data+Science+Enthusiast;Aspiring+Data+Science+Graduate+Student;Building+Scalable+Systems+%26+ML+Models)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFBF00&center=false&vCenter=true&width=500&lines=Go+Backend+Developer+%40+Guidewire+Software;AI+%26+Data+Science+Enthusiast;Aspiring+Data+Science+Graduate+Student;Building+Scalable+Systems+%26+ML+Models)](https://git.io/typing-svg)
 
 <br/>
 
@@ -43,7 +43,7 @@ func main() {
 	me := Developer{
 		Name:      "Mohitha Velagapudi",
 		Title:     "AI & Software Engineer",
-		Company:   "Guidewire Software Solutions",
+		Company:   "Guidewire Software",
 		AlmaMater: "Amrita University",
 		City:      "Bengaluru, India",
 		Passions:  []string{"Machine Learning", "Data Science", "AI Research", "Scalable Systems"},
