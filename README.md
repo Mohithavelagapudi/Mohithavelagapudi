@@ -6,8 +6,7 @@
 
 <p align="center">
   <video width="100%" style="border-radius: 10px;" controls>
-    <source src="Black and Yellow Web Developer LinkedIn Banner.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+    <source src="Black and Yellow Web Developer LinkedIn Banner.mp4" type="mp4">
   </video>
 </p>
 
