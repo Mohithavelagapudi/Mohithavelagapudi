@@ -5,8 +5,12 @@
 </div>
 
 <p align="center">
-  <img src="Black and Yellow Web Developer LinkedIn Banner (1).png" alt="GitHub Banner" width="100%" style="border-radius: 10px;"/>
+  <video width="100%" style="border-radius: 10px;" controls>
+    <source src="Black and Yellow Web Developer LinkedIn Banner.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
+
 
 ## 🚀 About Me
 
