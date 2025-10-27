@@ -67,31 +67,6 @@ func main() {
 📘 This represents the **in-depth coursework syllabus** covered throughout my undergraduate studies
 ---
 
-## 💼 Professional Experience
-
-### <img src="https://img.icons8.com/color/20/000000/golang.png"/> **Backend Software Engineer** @ Guidewire Software Solutions
-*June 2024 - Present | Bangalore, India*
-
-```yaml
-Responsibilities:
-  - Architecting: Microservices for insurance policy management system
-  - Performance: Optimized API response time by 40% through efficient algorithms
-  - Scale: Handling 10M+ requests daily across distributed systems
-  - Innovation: Implemented ML-based anomaly detection in production logs
-  
-Tech Stack: [Go, Kubernetes, PostgreSQL, Redis, gRPC, Docker]
-Impact: Reduced system downtime by 35% through predictive monitoring
-```
-
-<details>
-<summary>🔍 <b>Key Projects at Guidewire</b></summary>
-
-1. **Real-time Analytics Pipeline** - Built data streaming solution processing 500K events/min
-2. **ML-Powered Fraud Detection** - Integrated ML models into transaction processing workflow
-3. **Automated Testing Framework** - Developed AI-assisted test generation system
-
-</details>
-
 ## 🔬 Featured Projects
 
 <table>
