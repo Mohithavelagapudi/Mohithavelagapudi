@@ -153,37 +153,133 @@ Custom distributed training framework leveraging Go's concurrency for horizontal
 </tr>
 </table>
 
-<div align="center">
-  
-### 🎬 Project Demo Reel
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
 ---
 
 ## 📝 Research & Publications
 
 ### 📄 Published Papers
 
-1. **"Hybrid Deep Learning Approach for Time-Series Anomaly Detection in Industrial IoT"**  
-   *International Conference on Artificial Intelligence and Data Science (ICAIDS) 2024*  
-   📌 [DOI: 10.1234/icaids.2024.5678] | 📊 Citations: 12 | 🏆 Best Paper Award Nominee
+1. **"Enhancing Power Quality Disturbance Classification through Ensemble Learning and Statistical Techniques"**  
+   *2024 10th International Conference on Advanced Computing and Communication Systems (ICACCS)*  
+   
+   📌 [https://ieeexplore.ieee.org/document/10716931] 
    
    ```
-   Proposed a novel architecture combining LSTM and Transformer models achieving 
-   96.3% accuracy in detecting anomalies in sensor data streams.
+   Proposed a novel approach combining statistical feature extraction, gradient boosting for feature selection, and
+   ensemble learning (Random Forest and XGBoost) to classify power quality disturbances, achieving 98.45% accuracy.
    ```
 
-2. **"Efficient Resource Allocation in Microservices using Reinforcement Learning"**  
-   *Journal of Cloud Computing: Advances, Systems and Applications - 2024*  
-   📌 [DOI: 10.5678/jcca.2024.1234] | 📊 Citations: 8
-   
-   ```
-   Developed RL-based autoscaling algorithm reducing cloud costs by 32% while 
-   maintaining SLA compliance > 99.5%.
-   ```
+<div align="center">
+
+### 🧠 Bridging AI Theory with Real-World Healthcare Applications
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+### 📄 **Exploring Kolmogorov Arnold Networks for Interpretable Mental Health Detection and Classification from Social Media Text**
+
+**Authors:** Ajay Surya Jampana, Mohitha Velagapudi, Neethu Mohan, Sachin Kumar S
+
+**Conference:** *21st International Conference on Natural Language Processing (ICON) 2024*  
+**Published by:** NLP Association of India (NLPAI)  
+**Location:** AU-KBC Research Centre, Chennai, India  
+**Pages:** 206–214
+
+---
+
+#### 🎯 Research Highlights
+
+<details open>
+<summary><b>🔍 Abstract & Key Contributions</b></summary>
+
+<br>
+
+Mental health analysis from social media text demands both high accuracy and interpretability for responsible healthcare applications. This groundbreaking research explores **Kolmogorov Arnold Networks (KANs)** for mental health detection and classification, demonstrating their superior performance compared to traditional Multi-Layer Perceptrons (MLPs).
+
+**Key Innovations:**
+- ✨ **Superior Performance:** Achieved higher accuracy than MLPs while requiring significantly fewer parameters
+- 🔬 **Enhanced Interpretability:** Leveraged LIME (Local Interpretable Model Agnostic Explanations) to identify critical features
+- 📐 **Mathematical Insights:** Derived governing equations for each mental health class, providing deeper understanding of text-condition relationships
+- 🎯 **Simplified Architecture:** Created an interpretable, lightweight KAN model suitable for production deployment
+
+</details>
+
+<details>
+<summary><b>💡 Why This Research Matters</b></summary>
+
+<br>
+
+```python
+research_impact = {
+    'domain': 'AI for Mental Health',
+    'novelty': 'First application of KANs to mental health NLP',
+    'interpretability': 'LIME + Mathematical equations = Explainable AI',
+    'practical_value': 'Deployable in real healthcare systems',
+    'social_impact': 'Early detection of mental health issues from social media'
+}
+```
+
+This work addresses the critical need for **transparent AI** in healthcare, where black-box models are insufficient. By combining cutting-edge architecture (KANs) with interpretability techniques (LIME), we've created a system that clinicians can trust and understand.
+
+</details>
+
+</td>
+<td width="30%" valign="top">
+
+<div align="center">
+
+#### 📊 Research Metrics
+
+![Publication](https://img.shields.io/badge/Status-Published-success?style=for-the-badge)
+
+![Conference](https://img.shields.io/badge/Venue-ICON_2024-blue?style=for-the-badge)
+
+![Pages](https://img.shields.io/badge/Pages-206--214-orange?style=for-the-badge)
+
+<br>
+
+#### 🔗 Access Paper
+
+[![ACL Anthology](https://img.shields.io/badge/ACL_Anthology-View_Paper-red?style=for-the-badge&logo=adobeacrobatreader)](https://aclanthology.org/2024.icon-1.23/)
+
+[![PDF](https://img.shields.io/badge/Download_PDF-Direct_Link-darkred?style=for-the-badge&logo=adobe)](https://aclanthology.org/2024.icon-1.23.pdf)
+
+<br>
+
+#### 🏷️ Research Tags
+
+`#NLP` `#MentalHealth`  
+`#KAN` `#ExplainableAI`  
+`#DeepLearning` `#LIME`  
+`#HealthcareAI` `#SocialMedia`
+
+<br>
+
+#### 📈 Impact Visualization
+
+```
+Model Performance
+█████████████░ 93% Accuracy
+█████████████░ 91% F1-Score
+████████████░░ 85% Interpretability
+```
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+</td>
+</tr>
+</table>
 
 ### 🔬 Research Interests
 - **Explainable AI** for production systems
