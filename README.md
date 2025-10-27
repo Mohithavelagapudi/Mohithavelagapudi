@@ -127,7 +127,6 @@ Custom distributed training framework leveraging Go's concurrency for horizontal
 ---
 
 ## 📝 Research & Publications
-### 📄 Published Papers
 
 <table>
 <tr>
@@ -135,16 +134,17 @@ Custom distributed training framework leveraging Go's concurrency for horizontal
 
 ### 📄 **Exploring Kolmogorov Arnold Networks for Interpretable Mental Health Detection and Classification from Social Media Text**
 
-**Authors:** Ajay Surya Jampana, Mohitha Velagapudi, Neethu Mohan, Sachin Kumar S  
+**Authors:** Ajay Surya Jampana, Mohitha Velagapudi, Neethu Mohan, Sachin Kumar S 
+
+**Affiliation:**  
+
+Amrita School of Artificial Intelligence, Coimbatore, Amrita Vishwa Vidyapeetham, India
 
 **Conference:** *21st International Conference on Natural Language Processing (ICON) 2024*  
 **Published by:** NLP Association of India (NLPAI)  
 **Location:** AU-KBC Research Centre, Chennai, India  
-**Pages:** 206–214  
-
-<div align="center">
-<img src="paper_image.png" alt="ICON Paper Visual" width="80%" style="border-radius: 10px; margin-top: 10px;">
-</div>
+**Pages:** 206–214 
+**Year:** 2024 
 
 </td>
 <td width="30%" valign="top">
@@ -154,7 +154,6 @@ Custom distributed training framework leveraging Go's concurrency for horizontal
 #### 🔗 Access Paper
 
 [![ACL Anthology](https://img.shields.io/badge/ACL_Anthology-View_Paper-green?style=for-the-badge&logo=adobeacrobatreader)](https://aclanthology.org/2024.icon-1.23/)
-
 [![PDF](https://img.shields.io/badge/Download_PDF-Direct_Link-blue?style=for-the-badge&logo=adobe)](https://aclanthology.org/2024.icon-1.23.pdf)
 
 #### 📈 Impact Visualization
@@ -180,15 +179,14 @@ Interpretability
 
 ### 📄 **Enhancing Power Quality Disturbance Classification through Ensemble Learning and Statistical Techniques**
 
-**Authors:** Mohitha Velagapudi, Ajay Surya Jampana, Neethu Mohan, Sachin Kumar S, Soman K P
+**Authors:** Mohitha Velagapudi, Ajay Surya Jampana, Neethu Mohan, Sachin Kumar S, Soman KP
+
+**Affiliation:**  
+Amrita School of Artificial Intelligence, Coimbatore, Amrita Vishwa Vidyapeetham, India  
 
 **Conference:** *2024 10th International Conference on Advanced Computing and Communication Systems (ICACCS)*  
 **Published by:** IEEE  
 **Location:** Coimbatore, India  
-
-<div align="center">
-<img src="icaccs_paper_image.png" alt="ICACCS Paper Visual" width="80%" style="border-radius: 10px; margin-top: 10px;">
-</div>
 
 </td>
 <td width="30%" valign="top">
@@ -198,7 +196,6 @@ Interpretability
 #### 🔗 Access Paper
 
 [![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-View_Paper-violet?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/document/10716931)
-
 [![PDF](https://img.shields.io/badge/Download_PDF-Direct_Link-yellow?style=for-the-badge&logo=adobe)](https://drive.google.com/file/d/1uoV6Gk9U9FB5X37KKbO-fJvlNZ5tHbtJ/view?usp=sharing)
 #### 📈 Impact Visualization
 
@@ -216,36 +213,51 @@ Model Performance
 </table>
 
 ---
+<table>
+<tr>
+<td width="70%" valign="top">
+
+### 📄 **YOLOv10 for Enhanced Trypanosome Detection**
+
+**Authors:** Mohitha Velagapudi, Ajay Surya Jampana, Sowmya V, Vinayakumar Ravi  
+
+**Affiliations:**  
+1️⃣ Amrita School of Artificial Intelligence, Coimbatore, Amrita Vishwa Vidyapeetham, India  
+2️⃣ Center for Artificial Intelligence, Prince Mohammad Bin Fahd University, Khobar, Saudi Arabia  
+
+**Conference/Book Chapter:** *Decoding Medical Images: Enhancement, Restoration, Reconstruction*  
+**Published by:** River Publishers  
+**Year:** 2024  
+
+</td>
+<td width="30%" valign="top">
+
+<div align="center">
+
+#### 🔗 Access Chapter
+
+[![River Publishers](https://img.shields.io/badge/River_Publishers-View_Chapter-indigo?style=for-the-badge&logo=readthedocs)](https://drive.google.com/file/d/161thtLTav6DraLxvyis8uVMdL6BvwIRp/view?usp=sharing)  
+[![PDF](https://img.shields.io/badge/Download_PDF-Direct_Link-pink?style=for-the-badge&logo=adobe)](https://drive.google.com/file/d/161thtLTav6DraLxvyis8uVMdL6BvwIRp/view?usp=sharing)
+
+#### 📈 Impact Visualization
+```
+Model Performance
+███████████░░░ 79% Precision
+█████████░░░░░ 72% Recall
+██████████░░░░ 76% F1-Score
+```
+
+</div>
 
 </td>
 </tr>
 </table>
-<summary>📚 <b>Conference Presentations & Workshops</b></summary>
-
-- **Speaker** - "From Go to ML: Building Production ML Systems" - GopherCon India 2024
-- **Workshop Conductor** - "Introduction to Deep Learning" - Amrita TechFest 2023
-- **Poster Presentation** - "Optimizing CNN Architectures for Edge Devices" - IEEE AIML Summit 2023
-
-</details>
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| 🏅 Achievement | 📅 Year | 🎯 Details |
-|:---|:---:|:---|
-| **Smart India Hackathon Winner** | 2023 | Won national hackathon with ML-powered traffic management system |
-| **Google Summer of Code Contributor** | 2023 | Contributed to TensorFlow Extended (TFX) project |
-| **ACM ICPC Regionalist** | 2022 | Ranked in top 100 teams in regional programming contest |
-| **Best Capstone Project Award** | 2024 | Recognized for innovative ML solution in healthcare domain |
-| **HackerRank 5-Star (Python & SQL)** | 2023 | Achieved top certification in problem-solving |
-| **Guidewire Spotlight Award** | 2024 | Recognition for outstanding performance in Q3 |
-
-</div>
-
----
+</td>
+</tr>
+</table>
 
 ## 📈 Coding Stats
 
@@ -253,11 +265,10 @@ Model Performance
 
 <!--START_SECTION:waka-->
 ```text
-Go           12 hrs 45 mins  ████████████░░░░░░░░░   48.2%
-Python       8 hrs 30 mins   ████████░░░░░░░░░░░░░   32.1%
+Python       12 hrs 45 mins  ████████████░░░░░░░░░   48.2%
+Go      	 8 hrs 30 mins   ████████░░░░░░░░░░░░░   32.1%
 YAML         2 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░    8.5%
 SQL          1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░    6.6%
-Markdown     1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░    4.6%
 ```
 <!--END_SECTION:waka-->
 
