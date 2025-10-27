@@ -5,10 +5,9 @@
 </div>
 
 <p align="center">
-  <video width="100%" style="border-radius: 10px;" controls>
-    <source src="Black and Yellow Web Developer LinkedIn Banner.mp4" type="mp4">
-  </video>
+  <img src="Black and Yellow Web Developer LinkedIn Banner.gif" width="100%" style="border-radius: 10px;"/>
 </p>
+
 
 
 ## 🚀 About Me
