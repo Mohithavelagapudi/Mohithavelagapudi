@@ -127,26 +127,7 @@ Custom distributed training framework leveraging Go's concurrency for horizontal
 ---
 
 ## 📝 Research & Publications
-
 ### 📄 Published Papers
-
-1. **"Enhancing Power Quality Disturbance Classification through Ensemble Learning and Statistical Techniques"**  
-   *2024 10th International Conference on Advanced Computing and Communication Systems (ICACCS)*  
-   
-   📌 [https://ieeexplore.ieee.org/document/10716931] 
-   
-   ```
-   Proposed a novel approach combining statistical feature extraction, gradient boosting for feature selection, and
-   ensemble learning (Random Forest and XGBoost) to classify power quality disturbances, achieving 98.45% accuracy.
-   ```
-
-<div align="center">
-
-### 🧠 Bridging AI Theory with Real-World Healthcare Applications
-
-</div>
-
----
 
 <table>
 <tr>
@@ -154,82 +135,27 @@ Custom distributed training framework leveraging Go's concurrency for horizontal
 
 ### 📄 **Exploring Kolmogorov Arnold Networks for Interpretable Mental Health Detection and Classification from Social Media Text**
 
-**Authors:** Ajay Surya Jampana, Mohitha Velagapudi, Neethu Mohan, Sachin Kumar S
+**Authors:** Ajay Surya Jampana, Mohitha Velagapudi, Neethu Mohan, Sachin Kumar S  
 
 **Conference:** *21st International Conference on Natural Language Processing (ICON) 2024*  
 **Published by:** NLP Association of India (NLPAI)  
 **Location:** AU-KBC Research Centre, Chennai, India  
-**Pages:** 206–214
+**Pages:** 206–214  
 
----
-
-#### 🎯 Research Highlights
-
-<details open>
-<summary><b>🔍 Abstract & Key Contributions</b></summary>
-
-<br>
-
-Mental health analysis from social media text demands both high accuracy and interpretability for responsible healthcare applications. This groundbreaking research explores **Kolmogorov Arnold Networks (KANs)** for mental health detection and classification, demonstrating their superior performance compared to traditional Multi-Layer Perceptrons (MLPs).
-
-**Key Innovations:**
-- ✨ **Superior Performance:** Achieved higher accuracy than MLPs while requiring significantly fewer parameters
-- 🔬 **Enhanced Interpretability:** Leveraged LIME (Local Interpretable Model Agnostic Explanations) to identify critical features
-- 📐 **Mathematical Insights:** Derived governing equations for each mental health class, providing deeper understanding of text-condition relationships
-- 🎯 **Simplified Architecture:** Created an interpretable, lightweight KAN model suitable for production deployment
-
-</details>
-
-<details>
-<summary><b>💡 Why This Research Matters</b></summary>
-
-<br>
-
-```python
-research_impact = {
-    'domain': 'AI for Mental Health',
-    'novelty': 'First application of KANs to mental health NLP',
-    'interpretability': 'LIME + Mathematical equations = Explainable AI',
-    'practical_value': 'Deployable in real healthcare systems',
-    'social_impact': 'Early detection of mental health issues from social media'
-}
-```
-
-This work addresses the critical need for **transparent AI** in healthcare, where black-box models are insufficient. By combining cutting-edge architecture (KANs) with interpretability techniques (LIME), we've created a system that clinicians can trust and understand.
-
-</details>
+<div align="center">
+<img src="paper_image.png" alt="ICON Paper Visual" width="80%" style="border-radius: 10px; margin-top: 10px;">
+</div>
 
 </td>
 <td width="30%" valign="top">
 
 <div align="center">
 
-#### 📊 Research Metrics
-
-![Publication](https://img.shields.io/badge/Status-Published-success?style=for-the-badge)
-
-![Conference](https://img.shields.io/badge/Venue-ICON_2024-blue?style=for-the-badge)
-
-![Pages](https://img.shields.io/badge/Pages-206--214-orange?style=for-the-badge)
-
-<br>
-
 #### 🔗 Access Paper
 
-[![ACL Anthology](https://img.shields.io/badge/ACL_Anthology-View_Paper-red?style=for-the-badge&logo=adobeacrobatreader)](https://aclanthology.org/2024.icon-1.23/)
+[![ACL Anthology](https://img.shields.io/badge/ACL_Anthology-View_Paper-green?style=for-the-badge&logo=adobeacrobatreader)](https://aclanthology.org/2024.icon-1.23/)
 
-[![PDF](https://img.shields.io/badge/Download_PDF-Direct_Link-darkred?style=for-the-badge&logo=adobe)](https://aclanthology.org/2024.icon-1.23.pdf)
-
-<br>
-
-#### 🏷️ Research Tags
-
-`#NLP` `#MentalHealth`  
-`#KAN` `#ExplainableAI`  
-`#DeepLearning` `#LIME`  
-`#HealthcareAI` `#SocialMedia`
-
-<br>
+[![PDF](https://img.shields.io/badge/Download_PDF-Direct_Link-blue?style=for-the-badge&logo=adobe)](https://aclanthology.org/2024.icon-1.23.pdf)
 
 #### 📈 Impact Visualization
 
@@ -237,7 +163,50 @@ This work addresses the critical need for **transparent AI** in healthcare, wher
 Model Performance
 █████████████░ 93% Accuracy
 █████████████░ 91% F1-Score
-████████████░░ 85% Interpretability
+████████████░░ 85%
+Interpretability
+```
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
+### 📄 **Enhancing Power Quality Disturbance Classification through Ensemble Learning and Statistical Techniques**
+
+**Authors:** Mohitha Velagapudi, Ajay Surya Jampana, Neethu Mohan, Sachin Kumar S, Soman K P
+
+**Conference:** *2024 10th International Conference on Advanced Computing and Communication Systems (ICACCS)*  
+**Published by:** IEEE  
+**Location:** Coimbatore, India  
+
+<div align="center">
+<img src="icaccs_paper_image.png" alt="ICACCS Paper Visual" width="80%" style="border-radius: 10px; margin-top: 10px;">
+</div>
+
+</td>
+<td width="30%" valign="top">
+
+<div align="center">
+
+#### 🔗 Access Paper
+
+[![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-View_Paper-violet?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/document/10716931)
+
+[![PDF](https://img.shields.io/badge/Download_PDF-Direct_Link-yellow?style=for-the-badge&logo=adobe)](https://drive.google.com/file/d/1uoV6Gk9U9FB5X37KKbO-fJvlNZ5tHbtJ/view?usp=sharing)
+#### 📈 Impact Visualization
+
+```
+Model Performance
+█████████████░ 98.4% Accuracy
+█████████████░ 98.4% F1-Score
+█████████████░ 98.72% 10-CV
 ```
 
 </div>
@@ -251,14 +220,6 @@ Model Performance
 </td>
 </tr>
 </table>
-
-### 🔬 Research Interests
-- **Explainable AI** for production systems
-- **AutoML** and Neural Architecture Search
-- **Time-Series Forecasting** at scale
-- **MLOps** and model deployment strategies
-
-<details>
 <summary>📚 <b>Conference Presentations & Workshops</b></summary>
 
 - **Speaker** - "From Go to ML: Building Production ML Systems" - GopherCon India 2024
