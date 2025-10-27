@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="Black and Yellow Web Developer LinkedIn Banner.gif" width="100%" style="border-radius: 10px;"/>
+  <img src="Black and Yellow Web Developer LinkedIn Banner (2).png" width="100%" style="border-radius: 10px;"/>
 </p>
 
 
