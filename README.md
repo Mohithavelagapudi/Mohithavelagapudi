@@ -64,7 +64,9 @@ func main() {
   <img src="https://img.shields.io/badge/Managerial%20Statistics-DA70D6?style=for-the-badge&logo=bar-chart&logoColor=white" />
 </p>
 
-📘 This represents the **in-depth coursework syllabus** covered throughout my undergraduate studies
+📘 This represents the [**in-depth coursework syllabus**](https://drive.google.com/file/d/1sIpEQe6YNPEAgegvrc864zUZc2Yi5sgb/view?usp=sharing) covered throughout my undergraduate studies
+
+
 ---
 
 ## 🔬 Featured Projects
@@ -132,6 +134,50 @@ Custom distributed training framework leveraging Go's concurrency for horizontal
 <tr>
 <td width="70%" valign="top">
 
+### 📄 **Audio Driven Detection of Hate Speech in Telugu: Toward Ethical and Secure CPS**	
+
+**Authors:** Ajay Surya Jampana, Mohitha Velagapudi, Santhosh Kumar M*, Sai Ravula P*, Prasanna Teja M, Jyothish Lal G
+
+**Affiliation:**  
+School of Artificial Intelligence, Amrita Vishwa Vidyapeetham,
+Coimbatore, Tamil Nadu, India
+
+**Conference:** *International Conference on Cyber-Physical Systems (CPS) for Sustainable Development, 2024*
+**Published by:** Springer Nature
+**Year:** 2024
+</td>
+<td width="30%" valign="top">
+
+<div align="center">
+
+#### 🔗 Access Paper
+
+[![ACL Anthology](https://img.shields.io/badge/ACL_Anthology-View_Paper-green?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1O6no5bSzo4kMpjw0a3G2lXWDuJc1CCAX/view?usp=sharing)
+[![PDF](https://img.shields.io/badge/Download_PDF-Direct_Link-blue?style=for-the-badge&logo=adobe)](https://drive.google.com/file/d/1O6no5bSzo4kMpjw0a3G2lXWDuJc1CCAX/view?usp=sharing)
+
+#### 📈 Impact Visualization
+
+```
+
+Model Performance
+Accuracy
+████████████░░ 79%  Multi class
+███████████████ 89%  Binary class
+```
+
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+<td width="70%" valign="top">
+
 ### 📄 **Exploring Kolmogorov Arnold Networks for Interpretable Mental Health Detection and Classification from Social Media Text**
 
 **Authors:** Ajay Surya Jampana, Mohitha Velagapudi, Neethu Mohan, Sachin Kumar S 
@@ -153,8 +199,8 @@ Amrita School of Artificial Intelligence, Coimbatore, Amrita Vishwa Vidyapeetham
 
 #### 🔗 Access Paper
 
-[![ACL Anthology](https://img.shields.io/badge/ACL_Anthology-View_Paper-green?style=for-the-badge&logo=adobeacrobatreader)](https://aclanthology.org/2024.icon-1.23/)
-[![PDF](https://img.shields.io/badge/Download_PDF-Direct_Link-blue?style=for-the-badge&logo=adobe)](https://aclanthology.org/2024.icon-1.23.pdf)
+[![ACL Anthology](https://img.shields.io/badge/ACL_Anthology-View_Paper-orange?style=for-the-badge&logo=adobeacrobatreader)](https://aclanthology.org/2024.icon-1.23/)
+[![PDF](https://img.shields.io/badge/Download_PDF-Direct_Link-maroon?style=for-the-badge&logo=adobe)](https://aclanthology.org/2024.icon-1.23.pdf)
 
 #### 📈 Impact Visualization
 
