@@ -139,12 +139,12 @@ Custom distributed training framework leveraging Go's concurrency for horizontal
 **Authors:** Ajay Surya Jampana, Mohitha Velagapudi, Santhosh Kumar M*, Sai Ravula P*, Prasanna Teja M, Jyothish Lal G
 
 **Affiliation:**  
-School of Artificial Intelligence, Amrita Vishwa Vidyapeetham,
-Coimbatore, Tamil Nadu, India
+School of Artificial Intelligence, Amrita Vishwa Vidyapeetham,Coimbatore, Tamil Nadu, India
 
 **Conference:** *International Conference on Cyber-Physical Systems (CPS) for Sustainable Development, 2024*
 **Published by:** Springer Nature
 **Year:** 2024
+
 </td>
 <td width="30%" valign="top">
 
