@@ -152,7 +152,7 @@ School of Artificial Intelligence, Amrita Vishwa Vidyapeetham,Coimbatore, Tamil 
 
 #### 🔗 Access Paper
 
-[![ACL Anthology](https://img.shields.io/badge/ACL_Anthology-View_Paper-green?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1O6no5bSzo4kMpjw0a3G2lXWDuJc1CCAX/view?usp=sharing)
+[![ACL Anthology](https://img.shields.io/badge/Springer-View_Paper-green?style=for-the-badge&logo=adobeacrobatreader)](https://drive.google.com/file/d/1O6no5bSzo4kMpjw0a3G2lXWDuJc1CCAX/view?usp=sharing)
 [![PDF](https://img.shields.io/badge/Download_PDF-Direct_Link-blue?style=for-the-badge&logo=adobe)](https://drive.google.com/file/d/1O6no5bSzo4kMpjw0a3G2lXWDuJc1CCAX/view?usp=sharing)
 
 #### 📈 Impact Visualization
