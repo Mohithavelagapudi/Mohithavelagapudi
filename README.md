@@ -73,58 +73,58 @@ func main() {
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 [Neural Style Transfer App](https://github.com/yourusername/neural-style-transfer)
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+### ⚙️ [Custom GPU Operators for Deep Learning](https://github.com/Mohithavelagapudi/Custom-GPU-Operators-for-Deep-Learning)
+<img src="https://img.shields.io/badge/Triton-2D3748?style=flat&logo=triton&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/GPU%20Programming-76B900?style=flat&logo=nvidia&logoColor=white"/>
 
-Deep learning application that applies artistic styles to images using CNN. Deployed as REST API handling 1000+ daily requests.
+High-performance Triton-based GPU kernels accelerating core deep learning ops — from matrix multiplication to convolutions and activations.
 
-**Impact:** Featured in university tech exhibition
+**Impact:** 3× faster training on custom kernels 
 
-⭐ 245 | 🍴 67 | 📈 Active
+🧠 Built from First Principles
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 [Real-time Sentiment Analysis Pipeline](https://github.com/yourusername/sentiment-pipeline)
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white"/> <img src="https://img.shields.io/badge/BERT-orange?style=flat"/>
+### 🍱 [Bite2Burn: AI-Powered Calorie Estimation & Nutrition Assistant](https://github.com/Mohithavelagapudi/Bite2Burn-AI-Powered-Calorie-Estimation-Personalized-Nutrition-Assistant)
+<img src="https://img.shields.io/badge/LLMs-Mistral%207B%20%7C%20Llama%203.1-ff69b4?style=flat"/> <img src="https://img.shields.io/badge/VectorDB-ChromaDB-4E9A06?style=flat"/> <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Backend-Flask-black?style=flat&logo=flask&logoColor=white"/>
 
-Microservices architecture processing Twitter streams with BERT-based sentiment classification. Processes 50K tweets/min.
+RAG-based nutrition assistant built over Indian Food Composition Tables (IFCT 2017), combining NLP, retrieval, and nutrition science for culturally-aware calorie estimation.
 
-**Impact:** 92% accuracy on real-world data
-
-⭐ 189 | 🍴 43 | 🚀 Production-Ready
+**Impact:** AI-driven dietary guidance for 100+ regional cuisines  
+🧠 Integrates LLMs, RAG, ChromaDB, OCR & structured nutrition data
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 [Predictive Maintenance System](https://github.com/yourusername/predictive-maintenance)
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+### 🤖 [Vision-Based Gesture-Controlled Robot](https://github.com/Mohithavelagapudi/Vision-Based-Gesture-Controlled-Robot-using-Deep-Learning)
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white"/>
 
-LSTM-based time series prediction for industrial equipment failure. Reduced unplanned downtime by 40% in pilot deployment.
+End-to-end robotic control system integrating computer vision, deep learning, and embedded motor control for real-time gesture-driven navigation.
 
-**Impact:** Saved $50K+ in maintenance costs
+**Impact:** Achieved 95% gesture recognition accuracy on live video  
 
-⭐ 156 | 🍴 38 | 📄 Paper Published
+💡 Human-robot interaction via vision-based control
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔍 [Distributed ML Training Framework](https://github.com/yourusername/distributed-ml)
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+### 🌀 [Unsupervised Occlusion-Aware Image Animation](https://github.com/Mohithavelagapudi/Real-Time-Image-Animation-via-Learned-Keypoints-and-Local-Affine-Motion)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Deep%20Learning-Unsupervised-orange?style=flat"/>
 
-Custom distributed training framework leveraging Go's concurrency for horizontal scaling of ML workloads.
+Unsupervised framework for realistic image animation using learned keypoints, local affine motion, and occlusion-aware generation.
 
-**Impact:** 3x faster training on commodity hardware
-
-⭐ 203 | 🍴 51 | 🔧 In Development
+**Impact:** Achieved temporally coherent animations without pose supervision  
+🧩 Combines keypoint learning, motion modeling & occlusion-aware synthesis
 
 </td>
 </tr>
 </table>
+
 
 ---
 
