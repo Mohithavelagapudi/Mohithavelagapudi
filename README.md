@@ -75,7 +75,7 @@ func main() {
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ [Custom GPU Operators for Deep Learning](https://github.com/Mohithavelagapudi/Custom-GPU-Operators-for-Deep-Learning)
+###  [Custom GPU Operators for Deep Learning](https://github.com/Mohithavelagapudi/Custom-GPU-Operators-for-Deep-Learning)
 <img src="https://img.shields.io/badge/Triton-2D3748?style=flat&logo=triton&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/GPU%20Programming-76B900?style=flat&logo=nvidia&logoColor=white"/>
 
 High-performance Triton-based GPU kernels accelerating core deep learning ops — from matrix multiplication to convolutions and activations.
@@ -87,7 +87,7 @@ High-performance Triton-based GPU kernels accelerating core deep learning ops �
 </td>
 <td width="50%" valign="top">
 
-### 🍱 [Bite2Burn: AI-Powered Calorie Estimation & Nutrition Assistant](https://github.com/Mohithavelagapudi/Bite2Burn-AI-Powered-Calorie-Estimation-Personalized-Nutrition-Assistant)
+### [Bite2Burn: AI-Powered Calorie Estimation & Nutrition Assistant](https://github.com/Mohithavelagapudi/Bite2Burn-AI-Powered-Calorie-Estimation-Personalized-Nutrition-Assistant)
 <img src="https://img.shields.io/badge/LLMs-Mistral%207B%20%7C%20Llama%203.1-ff69b4?style=flat"/> <img src="https://img.shields.io/badge/VectorDB-ChromaDB-4E9A06?style=flat"/> <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Backend-Flask-black?style=flat&logo=flask&logoColor=white"/>
 
 RAG-based nutrition assistant built over Indian Food Composition Tables (IFCT 2017), combining NLP, retrieval, and nutrition science for culturally-aware calorie estimation.
@@ -101,7 +101,7 @@ RAG-based nutrition assistant built over Indian Food Composition Tables (IFCT 20
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Vision-Based Gesture-Controlled Robot](https://github.com/Mohithavelagapudi/Vision-Based-Gesture-Controlled-Robot-using-Deep-Learning)
+### [Vision-Based Gesture-Controlled Robot](https://github.com/Mohithavelagapudi/Vision-Based-Gesture-Controlled-Robot-using-Deep-Learning)
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white"/>
 
 End-to-end robotic control system integrating computer vision, deep learning, and embedded motor control for real-time gesture-driven navigation.
@@ -113,7 +113,7 @@ End-to-end robotic control system integrating computer vision, deep learning, an
 </td>
 <td width="50%" valign="top">
 
-### 🌀 [Unsupervised Occlusion-Aware Image Animation](https://github.com/Mohithavelagapudi/Real-Time-Image-Animation-via-Learned-Keypoints-and-Local-Affine-Motion)
+### [Unsupervised Occlusion-Aware Image Animation](https://github.com/Mohithavelagapudi/Real-Time-Image-Animation-via-Learned-Keypoints-and-Local-Affine-Motion)
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Deep%20Learning-Unsupervised-orange?style=flat"/>
 
 Unsupervised framework for realistic image animation using learned keypoints, local affine motion, and occlusion-aware generation.
